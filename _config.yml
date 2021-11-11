@@ -1,9 +1,8 @@
-title: Noman's Blog
+title: Noman Blog
 author: Noman Aasif Gudur
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  This is my blog. I am posting it for the first time and I am curious 
-  to do so. I had included my github handle below for your reference.
+  
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
